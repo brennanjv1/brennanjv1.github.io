@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About - New Test Page"
+title: "About TechX"
 permalink: /about/techx/
 ---
 
